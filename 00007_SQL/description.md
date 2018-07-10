@@ -11,13 +11,13 @@ Dado el DER presentado
       "destino": {
         "type": "VARCHAR(45)"
       },
-      "costoEnvio": {
+      "costo_envio": {
         "type": "FLOAT"
       },
       "destinatario": {
         "type": "VARCHAR(45)"
       },
-      "gestorDePaquetesDeProyectores_idGestorPaquetes": {
+      "gestorDePaqueteDeProyectores_idGestorPaquetes": {
         "type": "Int",
         "pk": false,
         "fk": {
@@ -26,7 +26,7 @@ Dado el DER presentado
         }
       }
     },
-    "gestorDePaquetesDeProyectores": {
+    "GestorDePaqueteDeProyectores": {
       "idGestorDePaquetes": {
         "type": "Int",
         "pk": true

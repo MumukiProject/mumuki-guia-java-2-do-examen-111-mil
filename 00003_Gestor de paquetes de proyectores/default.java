@@ -6,7 +6,7 @@ class GestorDePaquetesDeProyectores {
     this.paquetes = new ArrayList<>();
     this.nombreEmpresa = nombreEmpresa;
   }
-  public void setNombreEmpresa(nombreEmpresa) {
+  public void setNombreEmpresa(String nombreEmpresa) {
     this.nombreEmpresa = nombreEmpresa;
   }
   public String getNombreEmpresa() {

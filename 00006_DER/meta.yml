@@ -22,6 +22,6 @@ choices:
 - value: La clave primaria de la tabla GestorDePaquetesDeProyectores es idGestorDePaquetes
   checked: true
 - value: La tabla GestorDePaquetesDeProyectores no tiene clave foránea
-  checked: false
+  checked: true
 - value: La tabla PaqueteProyectores no tiene clave foránea
   checked: false
